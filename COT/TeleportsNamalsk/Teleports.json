@@ -1,0 +1,314 @@
+{
+    "Locations": [
+        {
+            "Name": "Jalovisko",
+            "Permission": "Jalovisko",
+            "Position": [
+                8233.5,
+                15.1208,
+                10808.3
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Nemsk",
+            "Permission": "Nemsk",
+            "Position": [
+                9048.89,
+                8.89,
+                10120.6
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Vorkuta",
+            "Permission": "Vorkuta",
+            "Position": [
+                6760.3,
+                17.4598,
+                11262.1
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Lubjansk",
+            "Permission": "Lubjansk",
+            "Position": [
+                4454.96,
+                2.83244,
+                11259.9
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "TF Bering outpost",
+            "Permission": "TFBeringoutpost",
+            "Position": [
+                1232.43,
+                2.0688,
+                11831.6
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "SKAT-12 (Submarine)",
+            "Permission": "SKAT12Submarine",
+            "Position": [
+                11868.3,
+                6.8422,
+                12081.4
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Airfield",
+            "Permission": "Airfield",
+            "Position": [
+                6241.93,
+                20.8513,
+                9540
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Sebjan dam",
+            "Permission": "SebjanDam",
+            "Position": [
+                5714.99,
+                21.3967,
+                9905.14
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "BK-T08",
+            "Permission": "BKT08",
+            "Position": [
+                3941.2,
+                9.33569,
+                9960.32
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Alakit",
+            "Permission": "Alakit",
+            "Position": [
+                5779.98,
+                16.8645,
+                10781.4
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Refugee camp (NW Sebjan)",
+            "Permission": "RefugeecampNWSebjan",
+            "Position": [
+                5169.57,
+                74.029,
+                8977.86
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Sebjan (ruined houses)",
+            "Permission": "SebjanRuinedHouses",
+            "Position": [
+                5215.36,
+                31.3898,
+                8578.91
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Sebjan uranium mine",
+            "Permission": "SebjanUraniumMine",
+            "Position": [
+                4991.37,
+                49.8201,
+                8039.55
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Athena Research Institute",
+            "Permission": "AthenaResearchInstitute",
+            "Position": [
+                4399.58,
+                78.6004,
+                8122.49
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Athena-1",
+            "Permission": "Athena1",
+            "Position": [
+                3750.31,
+                153.462,
+                8243.61
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Norinsk",
+            "Permission": "Norinsk",
+            "Position": [
+                3932.87,
+                53.0125,
+                7545.08
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Athena-2",
+            "Permission": "Athena2",
+            "Position": [
+                4977.61,
+                47.075,
+                6616.62
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "BK-L01",
+            "Permission": "BKL01",
+            "Position": [
+                4183.6,
+                390.316,
+                6635.42
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "BK-L02",
+            "Permission": "BKL02",
+            "Position": [
+                3428.95,
+                216.005,
+                6718.92
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Brensk Factory (NW Brensk Bridge)",
+            "Permission": "BrenskFactoryNWBrenskBridge",
+            "Position": [
+                4841.65,
+                41.0124,
+                6227.9
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Brensk Bridge",
+            "Permission": "BrenskBridge",
+            "Position": [
+                5027.64,
+                41.3997,
+                6095.09
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Brensk",
+            "Permission": "Brensk",
+            "Position": [
+                4306.05,
+                4.26243,
+                4778.51
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "BK-L16",
+            "Permission": "BKL16",
+            "Position": [
+                5978.7,
+                13.1721,
+                6707.49
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Brensk Marsh",
+            "Permission": "BrenskMarsh",
+            "Position": [
+                6166.98,
+                7.93454,
+                5731.44
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Tara Bridge",
+            "Permission": "TaraBridge",
+            "Position": [
+                6453.05,
+                40.1305,
+                5852.98
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Sawmill",
+            "Permission": "Sawmill",
+            "Position": [
+                7047.2,
+                40.0,
+                5817.85
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Tara",
+            "Permission": "Tara",
+            "Position": [
+                7262.49,
+                238.74,
+                7060.66
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Tara Harbor",
+            "Permission": "TaraHarbor",
+            "Position": [
+                7858.54,
+                9.70566,
+                7702.5
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Hospital (NW Tara Harbor)",
+            "Permission": "HospitalNWTaraHarbor",
+            "Position": [
+                7245.76,
+                84.7396,
+                7925.91
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Athena-3 (Bugged ATM)",
+            "Permission": "Athena3",
+            "Position": [
+                3597.62,
+                170.527,
+                6675.64
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Name": "Lantia (Bugged ATM)",
+            "Permission": "Lantia",
+            "Position": [
+                11080.1,
+                1003.73,
+                1622.23
+            ],
+            "Radius": 4.0
+        }
+    ]
+}
